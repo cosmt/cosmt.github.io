@@ -1,5 +1,5 @@
 ---
-title:  comst的博客
+title:  cosmt的博客
 ---
 
 ##  最近更新

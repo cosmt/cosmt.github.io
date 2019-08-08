@@ -16,6 +16,7 @@ sudo service haproxy restart    #重启
 ### Haproxy配置文件
 -   默认的配置文件路径：/etc/haproxy/haproxy.cfg
 -   配置文件示例：  
+
 ```
 global   # 全局参数的设置 
      log 127.0.0.1 local0 info 
@@ -162,4 +163,4 @@ backend static_server
      
  官方配置：
  http://haproxy.1wt.eu/download/1.4/doc/configuration.txt
-``` 
+```     

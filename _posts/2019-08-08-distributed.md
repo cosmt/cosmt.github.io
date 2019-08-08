@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 分布式介绍
+title:  分布式介绍
 ---
 
 ## h1

@@ -1,7 +1,7 @@
-##  系统结构分类
--   单机服务
--   分布式服务
-
-##  怎么部署集群服务
-
-##  Haproxy
+###  Haproxy是什么
+HAProxy 是一款提供高可用性、负载均衡以及基于TCP（第四层）和HTTP（第七层）应用的代理软件，支持虚拟主机，它是免费、快速并且可靠的一种解决方案
+###  Haproxy安装
+ubuntu系统安装命令
+```
+sudo apt install haproxy
+```

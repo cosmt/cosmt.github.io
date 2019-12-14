@@ -180,4 +180,4 @@ backend user_server #定义一个名为user_server的后端部分，frontend定�
      option httpchk GET /user/index.html
      # 开启对后端服务器的健康检测，通过GET /test/index.php来判断后端服务器的健康情况
      server user_server_1 localhost:49994 cookie 3 check inter 30000 rise 3 fall 3 weight 1
-```     
+```

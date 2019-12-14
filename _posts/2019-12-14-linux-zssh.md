@@ -23,7 +23,10 @@ alias ssh=zssh
 	- step2: sz 需要下载的文件
 	- step3: ctrl + space
 	- step4: rz
-
+    ```shell
+    # rz和sz命令依赖 lrzsz
+    sudo apt install lrzsz
+    ```
 [详细介绍点击此处](https://www.cnblogs.com/pied/p/5813018.html)
 
 - 定义别名之后tab不能自动补全的解决方法

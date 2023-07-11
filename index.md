@@ -8,3 +8,7 @@ title:  cosmt的博客
 -   [Jenkins持续集成](2019/08/13/devops-jenkins)
 -   [Haproxy反向代理](2019/08/08/devops-haproxy)
 
+
+<div style="text-align:center;">
+    <a href="https://beian.miit.gov.cn/" target="_blank">陕ICP备19022688号</a>
+</div>
